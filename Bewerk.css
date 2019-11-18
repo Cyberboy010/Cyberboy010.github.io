@@ -30,3 +30,14 @@ body {
     padding: 0;
     margin: 0;
 }
+
+.Quote a{
+    text-decoration: none;
+    color: black;
+}
+.Quote a:hover{
+    color: red;
+}
+.Quote p{
+    font-size: 20px;
+}
