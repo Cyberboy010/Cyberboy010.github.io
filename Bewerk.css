@@ -41,3 +41,7 @@ body {
 .Quote p{
     font-size: 20px;
 }
+
+html {
+    background-color: skyblue;
+}
